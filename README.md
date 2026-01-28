@@ -56,7 +56,8 @@ Note: MobileNet is identified as the most suitable model for real-time deploymen
 * Prof. Misbah Kauser & Dr. Md Salman Baig (Advisors)
 
 Final Year Engineering Student
-Project Domain: Deep Learning
+
+Project Domain: Deep Learning & Computer Vision
 
 Tags: #DeepLearning #CNN #CurrencyDetection #Python #MobileNet #ArtificialIntelligence
 
