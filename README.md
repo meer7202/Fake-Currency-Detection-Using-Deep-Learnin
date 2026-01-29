@@ -65,7 +65,7 @@ Tags: #DeepLearning #CNN #CurrencyDetection #Python #MobileNet #ArtificialIntell
 
 The dataset used in this project is approximately 600 MB in size and cannot be hosted directly on GitHub due to file size limitations.
 
-## License
-This project is for educational purposes only. It is licensed under the CC BY-NC 4.0 license, which allows for sharing and adaptation for non-commercial use, but strictly prohibits the sale or commercial use of this work.
-
 🔗 Dataset Download: https://drive.google.com/drive/folders/16O1ejMrTpbiPPqquqKg6fUjtSHivzar7?usp=drive_link
+
+## License
+This project is for educational purposes only. It is licensed under the CC BY-NC 4.0 license, which allows for sharing and adaptation for non-commercial use, but strictly prohibits the sale or commercial use of this work.gi
